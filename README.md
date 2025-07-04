@@ -1,16 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lucía</h1>
 <h3 align="center">A passionate developer and lifelong learner</h3>
 <p align="center">
-  <img src="https://github.com/luciaroldanrodriguez/luciaroldanrodriguez/blob/main/Programming%20girl.gif?raw=true" width="500" />
+  <img src="https://github.com/luciaroldanrodriguez/luciaroldanrodriguez/blob/main/Programmin%20girl%20v2.gif?raw=true" width="500" />
 </p>
 
-<p align="center">
-  <img src="https://your-image-url.com/lucia-avatar.gif" width="200"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Lucía;Desarrolladora+Fullstack;Apasionada+por+la+tecnología+y+el+arte" alt="Typing SVG" />
-</p>
 
 ---
 
