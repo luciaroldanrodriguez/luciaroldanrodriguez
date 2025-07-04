@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lucía</h1>
 <h3 align="center">A passionate developer and lifelong learner</h3>
+<p align="center">
+  <img src="https://github.com/luciaroldanrodriguez/luciaroldanrodriguez/blob/main/Animation%20-%201751655110072.gif?raw=true" width="500" />
+</p>
 
 <p align="center">
   <img src="https://your-image-url.com/lucia-avatar.gif" width="200"/>
