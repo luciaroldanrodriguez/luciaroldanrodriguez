@@ -24,7 +24,7 @@ A collection of small coding experiments, tools, and curiosities I've built alon
 
 ---
 
-### 📈 GitHub Stats
+<!--### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucia-dev&show_icons=true&theme=radical" alt="Lucía's GitHub stats" />
@@ -32,9 +32,8 @@ A collection of small coding experiments, tools, and curiosities I've built alon
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=lucia-dev&theme=radical" />
-</p>
+</p> -->
 
----
 
 ### 🌐 Connect with me
 
