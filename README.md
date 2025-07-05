@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucía</h1>
-<h3 align="center">A passionate developer and lifelong learner</h3>
+<h3 align="center">AI and Data enthusiast and lifelong learner</h3>
 <p align="center">
   <img src="https://github.com/luciaroldanrodriguez/luciaroldanrodriguez/blob/main/Programmin%20girl%20v2.gif?raw=true" width="500" />
 </p>
