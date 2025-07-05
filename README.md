@@ -9,10 +9,11 @@
 
 ### 🛠️ Tech Stack
 
-- 💻 Languages: JavaScript, Python, HTML, CSS
-- ⚙️ Tools: React, Node.js, Express, MongoDB, Git & GitHub
-- 🎨 Design: Figma, Canva
-- 📚 Currently learning: TypeScript, Next.js
+- 💻 Languages: Python, R, SQL
+- ⚙️ Databases: Milvus, Elasticsearch, MongoDB, Postgre
+- 🎨 Agentic Frameworks: Langraph, BeeAI, IBM ADK
+- ⚙️ Tools: GitHub
+- 📚 Currently learning: 
 
 ---
 
