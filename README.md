@@ -16,6 +16,13 @@
 - 📚 Currently learning: 
 
 ---
+### ⚙️ Tech Snippets
+
+A collection of small coding experiments, tools, and curiosities I've built along the way. Think of them as digital sketches — lightweight, useful, and fun to make.
+
+> “Small pieces, loosely joined.” – David Weinberger
+
+---
 
 ### 📈 GitHub Stats
 
